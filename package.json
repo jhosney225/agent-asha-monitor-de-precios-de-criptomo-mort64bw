@@ -1,0 +1,6 @@
+{
+  "name": "agent-asha-monitor-de-precios-de-criptomo-mort64bw",
+  "version": "1.0.0",
+  "description": "Proyecto de Asha [Gen21]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
